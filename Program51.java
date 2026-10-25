@@ -1,0 +1,11 @@
+class Program51
+{
+    public static void main(String A[])
+    {
+
+      System.out.println("Jay Ganesh...\n");
+      System.out.println("Jay Ganesh...\n");
+      System.out.println("Jay Ganesh...\n");
+      System.out.println("Jay Ganesh...\n");
+    }
+}
